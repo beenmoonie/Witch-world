@@ -1,0 +1,106 @@
+img.a {
+    width: 80px;
+    height: 95px;
+    outline: 5px solid #010372;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+
+table.able{
+
+    margin-top: 50px;
+    width: 100px;
+    height: 200px
+}
+
+table.a {
+    width: 100%;
+}
+
+table.b{
+    margin-left: 70px;
+}
+
+table.c{
+	color: #0001F2;
+	font-size: 62pt;
+	font-weight: bold;
+}
+
+table.dt{
+    border: 10px dotted rgb(0, 9, 128);
+    border-radius: 5px;
+    margin-top: 50px; 
+    width: 85%; 
+    height: 90%;
+}
+
+td.a {
+    font-style:italic;
+    color:#0000FE;
+    font-weight: bold;
+    font-size: 36pt;
+    padding-left:1em;
+    text-shadow: 4px 2px 8px #000000;
+    }
+
+td.b{
+        color: #DBDCFA;
+        background-color: #010066;
+        text-decoration: underline;
+        font-style: italic;
+        font-size: 16pt;
+        padding: 10px;
+}
+
+td.c{
+    font-family: sans-serif;
+    color: grey;
+    text-decoration: dotted;
+}
+
+td.welcome2oz{
+    margin-top: 300px;
+    margin-left:70px;
+    font-family: sans-serif;
+    font-style: italic;
+    font-size: 15pt;
+    color: grey;
+}
+
+td.last{
+    color: #abaab7;
+	text-decoration: underline;
+	font-family: monospace;
+}
+
+tr.btA {
+    background-image: linear-gradient(#9F9FDD, #000000);
+}
+
+div.z {border: 2px solid green;
+    text-align:center;
+    width: 70%;
+}
+
+div.scroll{
+    width:200px;
+    height:100px;
+    line-height:3em;
+    overflow:scroll;
+    padding:5px;
+    background-color:#ABACEF;
+    color:#171717;
+    border: 4px #000000;
+    font-family: sans-serif;
+}
+
+span.a {
+    background-color: #efabef;
+    border: 2px solid rgb(20, 17, 184);
+    font-style:italic;
+    color:#0000FE;
+    font-weight: bold;
+    padding:3px;
+    font-size:15pt;
+}
